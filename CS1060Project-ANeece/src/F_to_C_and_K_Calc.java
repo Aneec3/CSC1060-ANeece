@@ -14,5 +14,5 @@ public class F_to_C_and_K_Calc {
         System.out.print("If Fahrenheit = " + line + "\n");
         System.out.printf("Celsius = %.2f %n", C);
         System.out.printf("Kelvin = %.2f %n", K);
-        C:\Users\S03037036\Documents\GitHub\CSC1060-ANeece
+        // Ryan added this
     }}
